@@ -11,15 +11,7 @@ import java.net.URLEncoder;
 import org.json.*;
 
 public class StockScraper {
-testingdesu
-moretesting
-hellooooo
-
-thisisthesecondbranch
-HELLOOOOOO???
-		yo
-		more testing
-		1
+//Original version with a random comment :D
 		
 	void getStock(String stockCode) throws MalformedURLException, IOException {
 		System.out.println("Extracting stock: " + stockCode);
