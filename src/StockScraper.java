@@ -12,7 +12,10 @@ import org.json.*;
 
 public class StockScraper {
 testingdesu
-	
+moretesting
+hellooooo
+
+
 	void getStock(String stockCode) throws MalformedURLException, IOException {
 		System.out.println("Extracting stock: " + stockCode);
 		
