@@ -19,7 +19,8 @@ thisisthesecondbranch
 HELLOOOOOO???
 		yo
 		more testing
-
+		1
+		
 	void getStock(String stockCode) throws MalformedURLException, IOException {
 		System.out.println("Extracting stock: " + stockCode);
 		
