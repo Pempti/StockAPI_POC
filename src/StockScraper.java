@@ -15,6 +15,7 @@ public class StockScraper {
 	lol
 	hurro
 	yomuddah
+	desu
 		
 	void getStock(String stockCode) throws MalformedURLException, IOException {
 		System.out.println("Extracting stock: " + stockCode);
